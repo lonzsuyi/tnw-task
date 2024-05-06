@@ -47,3 +47,5 @@ out
 storybook-static
 
 *.DS_Store
+
+libs/info-components/node_modules/.cache/storybook*
