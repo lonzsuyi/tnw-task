@@ -1,0 +1,7 @@
+{
+  "/not-found": "app/not-found.js",
+  "/bus_operator/page": "app/bus_operator/page.js",
+  "/bus_operator/detail/page": "app/bus_operator/detail/page.js",
+  "/bus_operator/notes/page": "app/bus_operator/notes/page.js",
+  "/page": "app/page.js"
+}
